@@ -1,7 +1,6 @@
 🚀 Excited to share my latest project! 🌟 Leveraging YOLOv8 for Real-Time Object Detection 🕵️‍♂️✨ Check out the results below!
 
 YOLOv8 Overview:
-
 Implemented YOLOv8, a powerful real-time object detection algorithm, to identify and locate objects in images and video frames. YOLOv8, or "You Only Look Once," is known for its speed and accuracy, making it ideal for applications like autonomous vehicles, surveillance, and more.
 
 Dataset Compatibility:

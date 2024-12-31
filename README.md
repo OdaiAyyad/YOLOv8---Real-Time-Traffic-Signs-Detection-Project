@@ -23,9 +23,4 @@ Impact:
 
 💡 Gained hands-on experience in model training, optimization, and implementation, preparing for future AI challenges.
 
-Acknowledgments
-Thanks to the tools and resources that supported this project, including the Ultralytics YOLO library.
-
 Feel free to explore this repository and share feedback! 🚀
-
-#ObjectDetection #YOLOv8 #ComputerVision #DeepLearning #AI #MachineLearning #DataScience

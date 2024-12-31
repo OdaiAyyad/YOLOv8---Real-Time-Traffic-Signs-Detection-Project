@@ -27,4 +27,5 @@ Acknowledgments
 Thanks to the tools and resources that supported this project, including the Ultralytics YOLO library.
 
 Feel free to explore this repository and share feedback! 🚀
+
 #ObjectDetection #YOLOv8 #ComputerVision #DeepLearning #AI #MachineLearning #DataScience

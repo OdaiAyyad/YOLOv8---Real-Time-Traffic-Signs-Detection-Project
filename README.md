@@ -18,7 +18,9 @@ Integrated with local hardware to enable webcam-based real-time detection, showc
 Enhanced generalization using data augmentation techniques, improving the model’s robustness.
 
 Impact:
+
 📊 Demonstrated high accuracy and real-time performance, showcasing the system's potential in applications like traffic monitoring and surveillance.
+
 💡 Gained hands-on experience in model training, optimization, and implementation, preparing for future AI challenges.
 
 Acknowledgments
